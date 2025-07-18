@@ -200,3 +200,10 @@ main {
   }
 
 }
+
+@media (width <= 650px) {
+  main {
+    width: 375px;
+    padding: 1.5rem;
+  }
+}
